@@ -20,11 +20,15 @@ The proposed method can help identify patterns and factors affecting credit appr
 
 
 Q. What approach are you going to take in order to prove or disprove your hypothesis?
-•	Hypothesis 1:
+
+•	*Hypothesis 1:*
+
 •	Applicants with higher annual income are more likely to have their credit card applications approved.
-•	Hypothesis 2:
+•	* Hypothesis 2:*
+
 •	Education level may influence credit card approval, with higher education levels correlating with a higher likelihood of approval.
-•	Hypothesis 3:
+•	*Hypothesis 3:*
+
 •	Applicants with more family members may have a higher chance of credit card approval.
 Q. What feature engineering techniques will be relevant to your project?
 I can perform feature scaling, Imputation(dealing with missing values), and encoding as there are a few categorical variables available in the project.
