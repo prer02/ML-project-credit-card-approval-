@@ -60,9 +60,13 @@ We can try different algorithms (e.g., logistic regression, random forest classi
  
  Dependencies installed for the project. (Pandas, Matplotlib, Seaborn,Sklearn,)
 
-# *pip install pandas matplotlib seaborn Sklearn*
+``` bash 
+pip install pandas matplotlib seaborn Sklearn
+```
 
-# *Used the Jupyter Notebook to execute the analysis and visualize the results.*
+``` bash
+*Used the Jupyter Notebook to execute the analysis and visualize the results.*
+```
 
 
 # *Results*
