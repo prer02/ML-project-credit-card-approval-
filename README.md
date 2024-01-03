@@ -6,11 +6,13 @@ This capstone project focuses on utilizing machine learning techniques to evalua
 
 
 
-Q. Why is your proposal important in today’s world? How predicting a good client is
-worthy for a bank?
-Predicting credit card approval is crucial for banks to mitigate risks associated with providing credit to customers who may default on payments.
-It helps in making informed decisions and managing the finance of the institution.
-Q. How is it going to impact the banking sector?
+$$$ Q.Why is your proposal important in today’s world? How predicting a good client is
+worthy for a bank?*
+
+Ans) Predicting credit card approval is crucial for banks to mitigate risks associated with providing credit to customers who may default on payments.
+     It helps in making informed decisions and managing the finance of the institution.
+     
+# *Q. How is it going to impact the banking sector?*
 Implementing an effective credit approval system can lead to better risk management, reduced default rates, and improved overall financial stability for the bank.
 
 Q. If any, what is the gap in the knowledge or how your proposed method can be helpful if required in future for any bank in India.
