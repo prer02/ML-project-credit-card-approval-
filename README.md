@@ -42,7 +42,15 @@ Q.Please perform necessary steps required to improve the accuracy of your model.
 We can try hyperparameter tuning, feature selection, or other techniques to improve model performance.
 Q.Please compare all models (at least 4 models).
 We can try different algorithms (e.g., logistic regression, random forest classifier , decision tree classifier,Xgboost classifier) and compare their performance.
+
  
+ Dependencies installed for the project. (Pandas, Matplotlib, Seaborn,Sklearn,)
+
+pip install pandas matplotlib seaborn Sklearn 
+
+Used the Jupyter Notebook to execute the analysis and visualize the results.
+
+
 Results
 
 The project will provide clear and concise results for each of the specified questions, offering valuable insights into the credit card approval process based on the provided dataset.
