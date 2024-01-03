@@ -1,6 +1,6 @@
-#*Capstone Project: Machine Learning Credit Card Approval*
+# *Capstone Project: Machine Learning Credit Card Approval*
 
-#*Overview*
+# *Overview*
 
 This capstone project focuses on utilizing machine learning techniques to evaluate credit card approval based on provided CSV files containing relevant data. The project aims to address specific questions related to the dataset, providing valuable insights into different aspects of credit card applicants.
 
@@ -16,7 +16,7 @@ Implementing an effective credit approval system can lead to better risk managem
 Q. If any, what is the gap in the knowledge or how your proposed method can be helpful if required in future for any bank in India.
 The proposed method can help identify patterns and factors affecting credit approval, providing valuable insights for future credit assessment strategies in the banking sector.
  
-#*Section: Data analysis approach*
+# *Section: Data analysis approach*
 
 
 Q. What approach are you going to take in order to prove or disprove your hypothesis?
@@ -29,7 +29,7 @@ Q. What approach are you going to take in order to prove or disprove your hypoth
 Q. What feature engineering techniques will be relevant to your project?
 I can perform feature scaling, Imputation(dealing with missing values), and encoding as there are a few categorical variables available in the project.
  
-#*Section: Machine learning approach*
+# *Section: Machine learning approach*
 
 
 Q. What method will you use for machine learning based predictions for credit card approval?
@@ -51,7 +51,7 @@ pip install pandas matplotlib seaborn Sklearn
 Used the Jupyter Notebook to execute the analysis and visualize the results.
 
 
-#*Results*
+# *Results*
 
 The project will provide clear and concise results for each of the specified questions, offering valuable insights into the credit card approval process based on the provided dataset.
 
