@@ -1,5 +1,7 @@
 Capstone Project: Machine Learning Credit Card Approval
+
 Overview
+
 This capstone project focuses on utilizing machine learning techniques to evaluate credit card approval based on provided CSV files containing relevant data. The project aims to address specific questions related to the dataset, providing valuable insights into different aspects of credit card applicants.
 
 
@@ -42,6 +44,7 @@ Q.Please compare all models (at least 4 models).
 We can try different algorithms (e.g., logistic regression, random forest classifier , decision tree classifier,Xgboost classifier) and compare their performance.
  
 Results
+
 The project will provide clear and concise results for each of the specified questions, offering valuable insights into the credit card approval process based on the provided dataset.
 
 
