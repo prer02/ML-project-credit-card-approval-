@@ -40,19 +40,19 @@ Ans) I can perform feature scaling, Imputation(dealing with missing values), and
 # *Section: Machine learning approach*
 
 
-# *Q3. What method will you use for machine learning based predictions for credit card approval?*
+# *Q1. What method will you use for machine learning based predictions for credit card approval?*
 
 Ans) As this project comes under classification supervised learning. I believe logistic regression or random forest classification
 would give better accuracy.
 
-# *Q4. Please justify the most appropriate model.*
+# *Q2. Please justify the most appropriate model.*
 
 Ans) We try to choose the model with the highest accuracy and consider factors like interpretability, simplicity and computational efficiency.
-# *Q5. Please perform necessary steps required to improve the accuracy of your model.*
+# *Q3. Please perform necessary steps required to improve the accuracy of your model.*
 
 Ans) We can try hyperparameter tuning, feature selection, or other techniques to improve model performance.
 
-# *Q6. Please compare all models (at least 4 models).*
+# *Q4. Please compare all models (at least 4 models).*
 
 Ans) We can try different algorithms (e.g., logistic regression, random forest classifier , decision tree classifier,Xgboost classifier) and compare their performance.
 
