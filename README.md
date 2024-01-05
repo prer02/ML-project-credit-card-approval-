@@ -1,4 +1,5 @@
 ##  Capstone Project: Machine Learning Credit Card Approval
+Developed a machine learning model to predict credit card approval, addressing the need for efficient and accurate credit risk assessment.
 
 ## Overview
 
